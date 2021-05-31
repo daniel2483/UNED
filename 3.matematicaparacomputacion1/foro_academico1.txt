@@ -1,0 +1,27 @@
+
+
+Por dicha situación, conteste y discuta con sus compañeros la siguiente pregunta generadora: 
+¿para qué se utilizan los Diagramas de Venn en la vida cotidiana o en la carrera de Ingeniería Informática? 
+Justifique su respuesta con al menos dos argumentos. Además, indique al menos tres conocimientos de la Teoría 
+de Conjuntos que requiere para elaborar un Diagramas de Venn.
+
+En el comentario que realiza a dos de sus compañeros, complemente dichos aportes brindando un problema concreto, 
+en el cual se pueden aplicar los Diagramas de Venn en la vida cotidiana o en ingeniería informática. Puede proponer 
+una situación hipotética. No es necesario que la resuelva. Solamente debe plantearla e indicar al menos un concepto de 
+Teoría de Conjuntos que aplicaría para responder una pregunta que contenga de dicho problema. Debe plantear un problema 
+distinto a cada compañero, al cual le comenta.
+
+Utilidad de diagramas de Venn:
+
+- Los diagramas de Venn es una forma gráfica para visualizar de forma más sencilla cuando en dos o más conjuntos se
+dan intersecciones, es decir que los elementos de un conjunto también pertenecen a otro. También es fácil identificar su unión,
+diferencia simétrica, complemento, etc. Esto funcionan para realizar un análisis de los datos dentro de un conjunto.
+
+- Con los diagramas de Venn se puede observar los valores mayormente repetidos de una lista de conjuntos, supongamos que se tiene
+un conjunto A, B y C, y la intersección entre ellos es {2,3,4}, entonces se puede decir que los valores 1, 2 y 3 son los valores
+más comunes ya que están presentes en los 3 conjuntos.
+
+Para poder generar diagramas de Venn se requiere del conocimiento de:
+- La definición del conjunto Universo U, el cual normalmente es representado mediante un rectángulo (Lipschutz y Lipson, 2019).
+- Los valores que están contenidos en un conjunto, los cuales son representados mediante círculos (Lipschutz y Lipson, 2019).
+- Se debe conocer la definición de conjunto vacío (Lipschutz y Lipson, 2019).
