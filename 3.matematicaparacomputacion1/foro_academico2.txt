@@ -1,0 +1,27 @@
+
+
+¡Qué ejemplos más interesantes! – exclamó. ¿Tú qué opinas? ¿Conocías al respecto? ¿Cuál es la utilidad de las Relaciones 
+en la vida cotidiana? Compártenos tus respuestas. Plantee al menos tres ejemplos concretos. Describa brevemente la 
+relación que se modela.
+
+Por otra parte, comenta, mínimo a dos compañeros, dos aplicaciones que poseen las Relaciones en Informática. Aporta 
+ejemplos concretos que nos ayuden a visualizar cómo dicho tema está presente en tu área profesional o carrera.  
+Debe plantear dos aplicaciones distintas a cada compañero.
+
+
+Una de las grandes utilidades de las relaciones en la vida cotidiana, es la que utilizan los nutricionistas para la clasificación de alimentos en 2 grandes subdivisiones,
+alimentos bajos en grasa y alimentos con alta cantidad de grasa. Es así como los nutricionistas pueden crear un plan de alimentación bajo en grasa, indicándole y 
+relacionando los alimentos a alto o bajo en grasa para que el paciente pueda reducir su grasa corporal.
+
+La industria automovilística, también es un ejemplo cotidiano de relación, ya que se pueden dividir los automóviles en muchas subvdivisiones tales como el tipo 
+de combustible que utilizan, por ejemplo: diesel, gasolina, eléctrico, híbrido o de hidrógeno. Así cada marca, modelo y año de automóvil se puede relacionar con 
+un tipo específico de combustible que utiliza para movilizarse.
+
+En medicina también se pueden dar muchas relaciones, una de las más importantes es el tipo de sangre al que pertenece una persona, esto con el fin de en caso 
+de requerir una transfusión poder utilizar la sangre correcta, esto es algo muy crítico porque de ello depende la vida de una persona. Es así donde cada persona 
+en el mundo se relaciona con un tipo de sangre en específico y a su vez cada tipo de sangre se relaciona con los tipos de sangre compatibles, es decir que
+tipo de sangre puede recibir una persona en caso de transfusion de sangre. También se puede relacionar el tipo de sangre con otro grupo sanguíneo al que se puede donar.
+Como se puede observar en la tabla de Banco de sangre y Tejidos. (s.f). Donasang. https://www.donasang.org/que-es-la-sang/es_quadre-de-compatibilitat.html
+
+
+
