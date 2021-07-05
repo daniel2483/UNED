@@ -1,0 +1,86 @@
+Pregunta generadora:
+
+Suponga que Tony, un compañero de Matemática I para Computación desea cómo se relaciona la lógica 
+proposicional con la informática. Por ello, su tutor le indica que dicho conocimiento matemático es 
+una base para el álgebra booleana, el cual se utiliza en computación. Le sugiere observar el siguiente 
+vídeo para despertar su curiosidad:
+
+Además, le solicita al grupo de Tony que indaguen al respecto y compartan información o sus experiencias 
+al respecto para construir juntos el conocimiento.
+
+Con base en la información anterior, indague en diversas fuentes bibliográficas y discuta con sus compañeros 
+las siguientes preguntas generadoras: 
+
+¿Cuáles conocimientos de lógica proposicional se utilizan en álgebra booleana?
+Definiendo la lógica proposicional:
+Según Jose E. Labra G. y Ana I. Fernández M. (1998) "la lógica Proposicional pretende estudiar las frases 
+declarativas simples que son los elementos básicos de transmisión de conocimiento humano" (p. 3)
+
+Esto quiere decir de manera informal que las frases declarativas simples pueden tener un valor de Falso o 
+de Verdadero. Esto es fundamental para el álgebra booleana.
+
+Además otro conocimiento importante de la lógica proposicional en el álgebra booleana son las tablas de 
+verdad, la cuales son descritas en el acta del XVIII Simposio Internacional de informática educativa por
+Nieto, Susana y Ramos Higinio (2016):
+	"Las tablas de verdad son una herramienta básica en el análisis de las proposiciones compuestas, 
+	dentro del campo  de  la  lógica  proposicional.  Pero  su  utilidad  se  extiende  más  allá,  
+	abarcando aspectos de la lógica de Boole, la teoría de circuitos, el álgebra de conjuntos o el 
+	análisis de sistemas" (p. 97)
+
+Existen diferentes operaciones que se pueden realizar con las proposiciones, esto corresponde al álgebra
+booleana ya que las conjunciones, disjuciones y negaciones, se pueden traducir directametente de las 
+palabras a simbología matemática, es así que "y" se traduce a la operación conjunción (en inglés traducido 
+como AND), la "o" se interpreta como disjunción (en inglés traducido como OR) y "no o negado" se traduce 
+como la operación negación (se hace necesario en álgebra booleana las tablas de verdad, con el fin de 
+determinar si una combinación es Falsa o Verdadera). (Bradford, Henry Arnold, 2011) (Whitesitt, J. Eldon, 2012) 
+
+¿Para qué se utiliza el álgebra booleana en informática?
+- El álgebra booleana en informática se utiliza para la toma de decisiones de un programa o código, utilizando
+condiciones las cuales ejecutan parte de un programa en caso de que la condición sea verdadera, sino se 
+ejecuta otro bloque de código.
+- El álgebra booleana también es importante en base de datos (que es un tema básico de informática) 
+ya que la información de una consulta (query) se puede filtrar utilizando álgebra booleana, 
+realizando una combinación de operaciones lógicas básicas AND, OR o NOT.
+- Otra de las aplicaciones del álgebra booleana en informática es utilizado en el mundo de la criptografía, ya
+que cada vez más personas utilizan el internet, se hace necesario que los canales de comunicación sean seguras
+ya que está en riesgo la información personal. En la criptografía lo que se quiere es que esa información no
+sea entendible por nadie más que por el receptor (Crama, Ives y Hammer, Peter L.,2010, pag. 259)
+
+
+
+
+En el comentario que realiza a dos de sus compañeros, discuta por qué es importante la lógica proposicional 
+en la carrera de Ingeniería Informática. Justifique su respuesta con al menos dos argumentos. Debe plantear 
+al menos dos argumentos distintos por cada compañero.
+
+
+Comentario 1:
+La lógica proposicional es necesario en Ingeniería en Informática, ya que:
+1. Define cuales bloques de código de un programa corren y cuales no. Un ejemplo de proposición es la 
+siguiente, si se desea que un bloque de código corra en caso de que:
+Un número sea mayor a diez "y" a su vez que sea un número positivo (esto corresponde a una proposición). En 
+este caso vemos que su tabla de verdad corresponde a una conjunción ya que se utiliza la palabra "y", por lo
+que para que la proposición sea verdadera, se necesita que ambos argumentos sean verdaderos:
+- Un número sea mayor a diez
+- Debe ser un número positivo
+Solamente en caso de que ambos argumentos sean verdaderos, el código correra, en caso contrario el bloque 
+de código es ignorado.
+2. Se puede realizar operaciones dentro de un programa o código con múltiples combinaciones, por ejemplo 
+dentro de un bucle "for", y ese bloque de código se repite hasta que una condición sea alcanzada.
+Por ejemplo, la proposición: Repetir este bloque de código hasta que x sea 0.
+
+
+Comentario 2:
+La lógica proposicional es necesario en Ingeniería en Informática, ya que:
+1. Por ejemplo si un programa que se ejecuta posee una variable que no esté definida o sea indeterminada, 
+que sea posible salir del programa, e indicar mediante un mensaje de error indicando el porqué se dio la 
+terminación del programa (en este caso sería debido a que el valor de una variable no se ha definido).
+La proposición en este caso sería: La variable x se encuentra definida. Aquí vemos como las opciones para la
+proposición anterior es Verdadero o Falso. En caso de ser Falso, esto indica que la variable x no esta 
+definida.
+2. En el desarrollo de páginas web con acceso mediante un usuario y un contraseña, para usuarios 
+administradores, las opciones dentro de la página será más variada, en cambio si un usuario ingresa con un 
+rol de estudiante, sólo será capaz de observar los cursos del período actual, las notas y las tareas de dicho
+curso. Esto es posible gracias a las proposiciones lógicas siguientes:
+- ¿El usuario que ingresó es administrador? (Las opciones son verdadero o falso)
+- ¿El usuario que ingresó es estudiante? (Las opciones son verdadero o falso)
