@@ -1,0 +1,7 @@
+Estudiante de Matemática para Computación I, grupo #02
+
+Con respecto al te mas de los argumentos me surgió una duda, la cual es la siguiente:
+
+Para que un argumento sea válido, las premisas deben ser verdaderas y su conslusión también, para cada uno de las filas donde las premisas sean verdaderas.
+
+La pregunta es, que sucede si se tienen premisas, en el cuál ninguna de las filas tienen verdarero para cada una de las premisas, es decir, si se tiene P1, P2 y P3, su tabla de verdad sea:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
